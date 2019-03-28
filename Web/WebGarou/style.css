@@ -1,0 +1,31 @@
+mark
+{
+	text-decoration: underline;
+	background-color: white;
+}
+
+.gras
+{
+	font-weight: bold;
+}
+
+.italique
+{
+	font-style: italic;
+}
+
+/*
+Selecteurs avancés
+
+* : sélécteur universel
+
+h3 em : toutes les balises em dans un h3 (c'est des exemples)
+
+h3 + p : toutes les balises p après un h3
+
+a[title] : toutes les balises a qui possèdent un attribut title
+
+a[title="valeur"] : toutes les balises a qui possèdent un attribut title de valeur "valeur" exactement
+
+a[title*="valeur"] : toutes les balises a qui possèdent un attribut title de valeur "valeur"
+*/

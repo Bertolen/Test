@@ -109,6 +109,10 @@ var mots = [
         definition: "Regroupement d'esprits dans une catégorie en fonction de leur nature."
     },
     {
+        terme: "Uratha",
+        definition: "\"Loup-Garou\", souvent utilisé pour parler du peuple des loup-garous."
+    },
+    {
         terme: "Urdaga",
         definition: "Les Tribus Déchues."
     },
